@@ -1,4 +1,5 @@
 # Industry Standard Gem Valuer v25_mod (Streamlit)
+# https://gem-valuer-i3jrcvubllekgkxshdjzpv.streamlit.app/
 
 Wide-layout Streamlit app for gemstone identification & valuation with hydrostatic SG, 3D preview,
 DB-driven pricing, regional multipliers, metals & energy equivalents, sticky order panel, and rich PDF export.
